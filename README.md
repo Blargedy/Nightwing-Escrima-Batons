@@ -1,2 +1,3 @@
-# Titans-Nightwing-Escrima-LED-diffuser
-Titans Nightwing Escrima LED diffuser
+# Titans Nightwing Escrima Batons
+
+Cosplay prop for nightwing from Gotham Knights
