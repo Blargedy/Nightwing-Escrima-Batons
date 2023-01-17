@@ -11,3 +11,9 @@ Cosplay prop for nightwing from Gotham Knights
 * Blue filament
 * Black filament
 * Clear filament 
+
+
+## Special Print Settings
+For best results print diffuser in clear filament, with 40% infill (gyroid), using normal print settings. 
+
+When printing the mask, experiment with higher part cooling fan speeds for bridges.
