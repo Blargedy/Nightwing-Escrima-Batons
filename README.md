@@ -2,6 +2,13 @@
 
 Cosplay prop for nightwing from Gotham Knights
 
+WIP. Expect files to change as development continues
+
+![image](https://github.com/Blargedy/Nightwing-Escrima-Batons/assets/25805271/095e4dcf-80c7-40d3-addd-ea572ac1e01e)
+![image](https://github.com/Blargedy/Nightwing-Escrima-Batons/assets/25805271/e2d24958-ee3b-45ee-87bb-70c91de6c4ea)
+![image](https://github.com/Blargedy/Nightwing-Escrima-Batons/assets/25805271/e4da2748-c6fb-4c8b-9fb6-f1bc9edbac49)
+![image](https://github.com/Blargedy/Nightwing-Escrima-Batons/assets/25805271/b10db241-2ebb-452c-a59c-f85ce48f4e14)
+
 
 ## BoM
 
